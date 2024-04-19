@@ -1,8 +1,8 @@
 const Footer = () => {
   return (
     <>
-    <div className=" flex flex-col font-bold border border-black bg-[#4a4e52] text-white">
-    <div className="flex flex-col w-[100vw] sm:flex-row">
+    <div className=" flex flex-col border border-black bg-[black] text-white">
+    <div className="flex flex-col w-[98vw] sm:flex-row">
     <div className="basis-1/4">Logo</div>
   <div className="basis-1/4">Quick Links</div>
   <div className="basis-1/4">Important Links</div>
