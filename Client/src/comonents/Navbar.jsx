@@ -1,5 +1,5 @@
 import { useEffect, useState } from "react";
-import { FaBookOpenReader } from "react-icons/fa6";
+import { FaBookReader } from "react-icons/fa";
 import { Link } from "react-router-dom";
 const Navbar = () => {
   const [sticky, setSticky]=useState(false);
@@ -32,7 +32,7 @@ const Navbar = () => {
         <li><Link to="/contact">Contact Us</Link></li>
       </ul>
     </div>
-    <a className="text-2xl font-bold btn btn-ghost"><FaBookOpenReader />Books And Books </a>
+    <a className="text-2xl font-bold btn btn-ghost"><FaBookReader />Books And Books </a>
   </div>
   <div className="hidden navbar-center lg:flex">
     <ul className="px-1 menu menu-horizontal">
