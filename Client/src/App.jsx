@@ -1,5 +1,4 @@
 import About from "./comonents/About";
-import Banner from "./comonents/Banner";
 import Contact from "./comonents/Contact";
 import Courses from "./comonents/Courses";
 import Footer from "./comonents/Footer";
@@ -12,9 +11,9 @@ const App = () => {
 
       <BrowserRouter>
       <Navbar />
-      <Banner />
+      <hr className="mb-36" />
       <Routes>
-      <Route path="/" element={<Home />}></Route>
+          <Route path="/" element={<Home />}></Route>
           <Route path="/about" element={<About />}></Route>
           <Route path="/contact" element={<Contact />}></Route>
           <Route path="/courses" element={<Courses />}></Route>

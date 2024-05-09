@@ -1,0 +1,112 @@
+[
+    {
+        "id":1,
+        "name":"Story Book",
+        "title":"Lorem ipsum dolor sit amet, consectetur adipisicing elit. Iusto, velit!",
+        "price":0.0,
+        "category":"free",
+        "image":"https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?t=st=1713870652~exp=1713874252~hmac=37b012bf0e868d103b6ae1d591c25f7b60673b49bcf8088dbf9ee46efb4b2b6b&w=740"
+
+    },
+    {
+        "id":2,
+        "name":"Comedy Book Book",
+        "title":"Lorem ipsum dolor sit amet, consectetur adipisicing elit. Iusto, velit!",
+        "price":0.0,
+        "category":"free",
+        "image":"https://img.freepik.com/free-vector/books-stack-realistic_1284-4735.jpg?t=st=1714114076~exp=1714117676~hmac=0a53ce873401ba12fd668f0f187c8634b9a41053221c9cf9d5b5d46f088833ff&w=740"
+
+    },
+    {
+        "id":3,
+        "name":"Sports Book",
+        "title":"Lorem ipsum dolor sit amet, consectetur adipisicing elit. Iusto, velit!",
+        "price":0.0,
+        "category":"free",
+        "image":"https://img.freepik.com/free-vector/red-text-book-closed-icon_18591-82397.jpg?t=st=1714114186~exp=1714117786~hmac=1018dfae16d8fd8366fc347a07e1f14c04be935291fe50780c21843644d1e75b&w=740"
+
+    },
+    {
+        "id":4,
+        "name":"Music Book",
+        "title":"Lorem ipsum dolor sit amet, consectetur adipisicing elit. Iusto, velit!",
+        "price":0.0,
+        "category":"free",
+        "image":"https://img.freepik.com/free-vector/red-text-book-closed-icon_18591-82397.jpg?t=st=1714114186~exp=1714117786~hmac=1018dfae16d8fd8366fc347a07e1f14c04be935291fe50780c21843644d1e75b&w=740"
+
+    },
+    {
+        "id":5,
+        "name":"Cartoon Book",
+        "title":"Lorem ipsum dolor sit amet, consectetur adipisicing elit. Iusto, velit!",
+        "price":0.0,
+        "category":"free",
+        "image":"https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?t=st=1713870652~exp=1713874252~hmac=37b012bf0e868d103b6ae1d591c25f7b60673b49bcf8088dbf9ee46efb4b2b6b&w=740"
+
+    },
+    {
+        "id":6,
+        "name":"Story Book",
+        "title":"Lorem ipsum dolor sit amet, consectetur adipisicing elit. Iusto, velit!",
+        "price":100,
+        "category":"food",
+        "image":"https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?t=st=1713870652~exp=1713874252~hmac=37b012bf0e868d103b6ae1d591c25f7b60673b49bcf8088dbf9ee46efb4b2b6b&w=740"
+
+    }
+    ,
+    {
+        "id":7,
+        "name":"Music Book",
+        "title":"Lorem ipsum dolor sit amet, consectetur adipisicing elit. Iusto, velit!",
+        "price":0.0,
+        "category":"free",
+        "image":"https://img.freepik.com/free-vector/red-text-book-closed-icon_18591-82397.jpg?t=st=1714114186~exp=1714117786~hmac=1018dfae16d8fd8366fc347a07e1f14c04be935291fe50780c21843644d1e75b&w=740"
+
+    },
+    {
+        "id":8,
+        "name":"Cartoon Book",
+        "title":"Lorem ipsum dolor sit amet, consectetur adipisicing elit. Iusto, velit!",
+        "price":0.0,
+        "category":"free",
+        "image":"https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?t=st=1713870652~exp=1713874252~hmac=37b012bf0e868d103b6ae1d591c25f7b60673b49bcf8088dbf9ee46efb4b2b6b&w=740"
+
+    },
+    {
+        "id":9,
+        "name":"Story Book",
+        "title":"Lorem ipsum dolor sit amet, consectetur adipisicing elit. Iusto, velit!",
+        "price":100,
+        "category":"food",
+        "image":"https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?t=st=1713870652~exp=1713874252~hmac=37b012bf0e868d103b6ae1d591c25f7b60673b49bcf8088dbf9ee46efb4b2b6b&w=740"
+
+    }
+    ,
+    {
+        "id":10,
+        "name":"Music Book",
+        "title":"Lorem ipsum dolor sit amet, consectetur adipisicing elit. Iusto, velit!",
+        "price":0.0,
+        "category":"free",
+        "image":"https://img.freepik.com/free-vector/red-text-book-closed-icon_18591-82397.jpg?t=st=1714114186~exp=1714117786~hmac=1018dfae16d8fd8366fc347a07e1f14c04be935291fe50780c21843644d1e75b&w=740"
+
+    },
+    {
+        "id":11,
+        "name":"Cartoon Book",
+        "title":"Lorem ipsum dolor sit amet, consectetur adipisicing elit. Iusto, velit!",
+        "price":0.0,
+        "category":"free",
+        "image":"https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?t=st=1713870652~exp=1713874252~hmac=37b012bf0e868d103b6ae1d591c25f7b60673b49bcf8088dbf9ee46efb4b2b6b&w=740"
+
+    },
+    {
+        "id":12,
+        "name":"Story Book",
+        "title":"Lorem ipsum dolor sit amet, consectetur adipisicing elit. Iusto, velit!",
+        "price":100,
+        "category":"food",
+        "image":"https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?t=st=1713870652~exp=1713874252~hmac=37b012bf0e868d103b6ae1d591c25f7b60673b49bcf8088dbf9ee46efb4b2b6b&w=740"
+
+    }
+]
