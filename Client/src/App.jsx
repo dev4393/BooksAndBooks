@@ -14,6 +14,7 @@ const queryClient = new QueryClient({
   defaultOptions:{}
 })
 import { BrowserRouter, Routes, Route } from "react-router-dom";
+import Table from "./comonents/Table";
 const App = () => {
   return (
     <div >
@@ -26,6 +27,7 @@ const App = () => {
           <Route path="/about" element={<About />}></Route>
           <Route path="/contact" element={<Contact />}></Route>
           <Route path="/courses" element={<Courses />}></Route>
+          <Route path="/table" element={<Table />}></Route>
       </Routes>
       <Footer />
     </BrowserRouter>

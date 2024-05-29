@@ -27,9 +27,10 @@ const Navbar = () => {
       </div>
       <ul tabIndex={0} className="menu menu-sm dropdown-content mt-3 z-[1] p-2 shadow bg-base-100 rounded-box w-52">
         <li><Link to="/">Home</Link></li>
-        <li><Link to="/courses">Courses</Link></li>
+        <li><Link to="/courses">CRUD</Link></li>
         <li> <Link to="/about">About</Link></li>
-        <li><Link to="/contact">Contact Us</Link></li>
+        <li><Link to="/contact">Pagination</Link></li>
+        <li><Link to="/table">Table</Link></li>
       </ul>
     </div>
     <a className="text-2xl font-bold btn btn-ghost"><FaBookReader />Books And Books </a>
@@ -37,9 +38,10 @@ const Navbar = () => {
   <div className="hidden navbar-center lg:flex">
     <ul className="px-1 menu menu-horizontal">
       <li><Link to="/">Home</Link></li>
-      <li><Link to="/courses">Courses</Link></li>
+      <li><Link to="/courses">CRUD</Link></li>
       <li><Link to="/about">About</Link></li>
-      <li><Link to="/contact">Contact Us</Link></li>
+      <li><Link to="/contact">Pagination</Link></li>
+      <li><Link to="/table">Table</Link></li>
     </ul>
   </div>
   <div className="navbar-end">
